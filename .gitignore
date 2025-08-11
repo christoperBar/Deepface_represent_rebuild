@@ -1,0 +1,7 @@
+__pycache__
+crops
+cropted_faces
+facenet512_weights.h5
+images
+retinaface.h5
+embeddings.json
